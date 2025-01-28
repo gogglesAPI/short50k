@@ -1,7 +1,7 @@
-! name: 1k short boost php page
+! name: 1k short
 ! description: Rerank results to remove pages found on the top 1,000 most-viewed websites. List of top sites drawn from tranco-list.eu. Up-ranked sites not vetted or endorsed by Brave.
 ! public: true
-! author: @GTX_K
+! author: Goggles 101
 ! avatar: #0a7c41
 
 .php?$boost=10,inurl
